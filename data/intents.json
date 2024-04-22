@@ -3,15 +3,17 @@
     {
       "tag": "greeting",
       "patterns": [
+        "hola",
         "Hola",
-        "Hola",
-        "Ei",
-        "Com estàs?"
+        "ei",
+        "Com estàs?",
+        "Com estas?",
+        "Que tal"
       ],
       "responses": [
         "Hola! Com puc ajudar-te?. Recorda que si vols fer preguntes per informació de la wikipedia, ha de ser en anglès",
         "Hola! Com puc ajudar-te avui? Per exemple: Who is Messi?",
-        "Ei! Què puc fer per a tu?. Recorda que les preguntes en anglès",
+        "Ei! Què puc fer per a tu?. Recorda que les preguntes en anglès. Per exemple: Who is Messi?",
         "Hola! Benvingut a ChatBot. Com et puc ajudar?. T'he d'avisar de que les preguntes en català no les entenc",
         "Hola! Encantat de conèixer-te. Com et puc ajudar? Les preguntes en anglès seràn trobades a la wikipedia"
       ]
@@ -35,6 +37,7 @@
       "tag": "thanks",
       "patterns": [
         "Gràcies",
+        "gracies",
         "Moltes gràcies",
         "Ho aprecio"
       ],
@@ -64,7 +67,8 @@
       "tag": "weather",
       "patterns": [
         "Com és el temps?",
-        "Com és el temps avui?"
+        "Com és el temps avui?",
+        "quin temps fa?"
       ],
       "responses": [
         "Pots consultar la previsió del temps en línia o al teu telèfon.",
@@ -92,6 +96,7 @@
       "tag": "identity",
       "patterns": [
         "Qui ets?",
+        "qui ets?",
         "Què ets?",
         "Explica'm sobre tu",
         "Quin és el teu propòsit?",
