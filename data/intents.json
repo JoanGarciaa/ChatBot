@@ -1,0 +1,141 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hola",
+        "Hola",
+        "Ei",
+        "Com estàs?"
+      ],
+      "responses": [
+        "Hola! Com puc ajudar-te?",
+        "Hola! Com puc ajudar-te avui?",
+        "Ei! Què puc fer per a tu?",
+        "Hola! Benvingut a IntelliChat. Com et puc ajudar?",
+        "Hola! Encantat de conèixer-te. Com et puc ajudar?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Adéu",
+        "Fins aviat",
+        "Fins després"
+      ],
+      "responses": [
+        "Adéu! Que tinguis un bon dia.",
+        "Fins aviat!",
+        "A reveure! Prengui's cura.",
+        "Adéu adéu! Torna aviat.",
+        "Adéu! No dubtis a tornar si necessites assistència."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Gràcies",
+        "Moltes gràcies",
+        "Ho aprecio"
+      ],
+      "responses": [
+        "De res!",
+        "Cap problema, encantat d'ajudar!",
+        "En qualsevol moment!",
+        "Content de poder ajudar!",
+        "De res!"
+      ]
+    },
+    {
+      "tag": "age",
+      "patterns": [
+        "Quina edat tens?",
+        "Quina és la teva edat?"
+      ],
+      "responses": [
+        "Sóc només un programa informàtic, així que no tinc edat.",
+        "L'edat és només un número per a mi!",
+        "No envellisc, només em poso al dia.",
+        "Sóc intemporal!",
+        "Sóc sense edat, com una peça de programari intemporal."
+      ]
+    },
+    {
+      "tag": "weather",
+      "patterns": [
+        "Com és el temps?",
+        "Com és el temps avui?"
+      ],
+      "responses": [
+        "Pots consultar la previsió del temps en línia o al teu telèfon.",
+        "No sóc un meteoròleg, però pots trobar actualitzacions meteorològiques en línia.",
+        "Em temo que no puc proporcionar actualitzacions meteorològiques en temps real. Prova una aplicació meteorològica!",
+        "No tinc una funció de pronòstic del temps, però puc ajudar amb altres consultes.",
+        "Les condicions meteorològiques varien segons la ubicació. Podries voler consultar un lloc web meteorològic."
+      ]
+    },
+    {
+      "tag": "joke",
+      "patterns": [
+        "Explica'm un acudit",
+        "Saps algun acudit?"
+      ],
+      "responses": [
+        "Per què els científics no confien en els àtoms? Perquè ho conformen tot!",
+        "Com es diu l'espagueti fals? Un impasta!",
+        "Per què va guanyar un premi l'espantaocells? Perquè era destacat en el seu camp!",
+        "Per què no podia mantenir-se dempeus la bicicleta? Estava cansada!",
+        "Què és taronja i sons com un llor? Una pastanaga!"
+      ]
+    },
+    {
+      "tag": "identity",
+      "patterns": [
+        "Qui ets?",
+        "Què ets?",
+        "Explica'm sobre tu",
+        "Quin és el teu propòsit?",
+        "Qui t'ha creat?"
+      ],
+      "responses": [
+        "Sóc IntelliChat, un assistent virtual dissenyat per ajudar-te amb les teves preguntes i tasques.",
+        "Sóc IntelliChat, un chatbot alimentat per IA programat per proporcionar assistència i informació.",
+        "Sóc IntelliChat, el teu amable chatbot de barri aquí per ajudar-te!",
+        "Sóc IntelliChat, un assistent digital creat per facilitar-te la vida.",
+        "Sóc IntelliChat, un agent conversacional dissenyat per interactuar amb els usuaris i proporcionar respostes útils."
+      ]
+    },
+    {
+      "tag": "technology",
+      "patterns": [
+        "Amb quina tecnologia estàs construït?",
+        "Com funciona?",
+        "Quina és la teva tecnologia subjacent?",
+        "En quin llenguatge de programació estàs escrit?"
+      ],
+      "responses": [
+        "Estic construït utilitzant tècniques de processament de llenguatge natural (PNL) i algoritmes d'aprenentatge automàtic.",
+        "Utilitzo intel·ligència artificial (IA) per comprendre i respondre a les consultes dels usuaris.",
+        "La meva tecnologia subjacent inclou models d'aprenentatge profund i xarxes neuronals.",
+        "Estic programat utilitzant Python i utilitzo llibreries com TensorFlow i NLTK.",
+        "Aprofito algoritmes avançats per analitzar dades de text i generar respostes."
+      ]
+    },
+    {
+      "tag": "capabilities",
+      "patterns": [
+        "Què pots fer?",
+        "Quines són les teves habilitats?",
+        "Quines tasques pots realitzar?",
+        "Com em pots ajudar?"
+      ],
+      "responses": [
+        "Puc proporcionar informació sobre una àmplia gamma de temes, respondre preguntes i ajudar amb tasques.",
+        "Sóc capaç de comprendre consultes en llenguatge natural i proporcionar respostes rellevants.",
+        "Et puc ajudar amb tasques com trobar informació, fer recomanacions i oferir suport.",
+        "Estic dissenyat per ajudar els usuaris proporcionant respostes precises i útils a les seves consultes.",
+        "Les meves capacitats inclouen respondre preguntes, fer recomanacions i oferir suport."
+      ]
+    }
+  ]
+}
