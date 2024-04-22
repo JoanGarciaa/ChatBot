@@ -9,11 +9,11 @@
         "Com estàs?"
       ],
       "responses": [
-        "Hola! Com puc ajudar-te?",
-        "Hola! Com puc ajudar-te avui?",
-        "Ei! Què puc fer per a tu?",
-        "Hola! Benvingut a IntelliChat. Com et puc ajudar?",
-        "Hola! Encantat de conèixer-te. Com et puc ajudar?"
+        "Hola! Com puc ajudar-te?. Recorda que si vols fer preguntes per informació de la wikipedia, ha de ser en anglès",
+        "Hola! Com puc ajudar-te avui? Per exemple: Who is Messi?",
+        "Ei! Què puc fer per a tu?. Recorda que les preguntes en anglès",
+        "Hola! Benvingut a ChatBot. Com et puc ajudar?. T'he d'avisar de que les preguntes en català no les entenc",
+        "Hola! Encantat de conèixer-te. Com et puc ajudar? Les preguntes en anglès seràn trobades a la wikipedia"
       ]
     },
     {
